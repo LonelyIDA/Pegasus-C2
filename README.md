@@ -24,7 +24,7 @@ Pegasus Is A Tool Wich Has 9 Functions. Pegasus Uses Discord as C2.
 2. Then Change Line 138, Add Your Bot Token
 3. Complie To Exe
 4. Then Send It To Victim
-
+ 
 # VirusTotal
 
 > Don't Upload The C2 To Virus Total
